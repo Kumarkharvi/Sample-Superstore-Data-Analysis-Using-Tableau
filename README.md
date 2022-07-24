@@ -15,3 +15,8 @@ https://public.tableau.com/views/SuperStoreSalesDashboard_16569624435010/Dashboa
 
 ![image](https://user-images.githubusercontent.com/103169083/180661756-423dd463-787c-4d2f-a101-a1342f1acecd.png)
 
+<p align="center">
+  <img width="380" height="200" src="https://user-images.githubusercontent.com/103169083/180431456-560f0d40-fc59-40c1-a5e3-53dd5bc71275.png">
+</p>
+
+
