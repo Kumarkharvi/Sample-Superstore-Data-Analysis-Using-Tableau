@@ -13,3 +13,5 @@ https://public.tableau.com/views/SuperStoreSalesDashboard_16569624435010/Dashboa
 
 • Or you can see this Dashboard Visual.
 
+![image](https://user-images.githubusercontent.com/103169083/180661756-423dd463-787c-4d2f-a101-a1342f1acecd.png)
+
